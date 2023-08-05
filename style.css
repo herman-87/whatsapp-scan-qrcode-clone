@@ -14,14 +14,14 @@ header {
 }
 header img{
     position: relative;
-    left: 445px;
+    left: 470px;
     top: 10px;
     height: 50px;
     width: 50px;
 }
 strong {
     position: relative;
-    left: 450px;
+    left: 480px;
     bottom: 10px;
     color: white;
     font-size: 13px;
@@ -79,7 +79,7 @@ p, a {
     line-height: 40px;
     padding: 20px;
 }
-#second-line img {
+#second-line video {
     position: relative;
     top: 35px;
 }
